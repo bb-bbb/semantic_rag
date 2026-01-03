@@ -1,0 +1,4967 @@
+[
+  {
+    "doc_id": ".ai",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": ".ai",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": ".ai",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "2024\u20132026 global memory supply shortage",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "2024\u20132026 global memory supply shortage",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Actor-critic algorithm",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Admissible heuristic",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Admissible heuristic",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Admissible heuristic",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Admissible heuristic",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Admissible heuristic",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Agentive logic",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI agent",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI alignment",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI anthropomorphism",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI browser",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI browser",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI datacenter",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI literacy",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI literacy",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI literacy",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI literacy",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI nationalism",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI nationalism",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI Overviews",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI Overviews",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI Overviews",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI safety",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI veganism",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI washing",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI washing",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI-assisted software development",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI-assisted software development",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI-complete",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI-complete",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AI-complete",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AIOps",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AIOps",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AIOps",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Algorithmic probability",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ameca (robot)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ameca (robot)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "And\u2013or tree",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "And\u2013or tree",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Anna Becker",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Answer engine optimization",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Argumentation framework",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial brain",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial brain",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial brain",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial consciousness",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial general intelligence",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence and elections",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence arms race",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence controversies",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence controversies",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence controversies",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence controversies",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence controversies",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in education",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in education",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in education",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in education",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in physical therapy",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in physical therapy",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in spirituality",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence in the 2024 United States presidential election",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence optimization",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence optimization",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence optimization",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence optimization",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 24,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 25,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 26,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 27,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 28,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 29,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 30,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 31,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 32,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 33,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 34,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 35,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 36,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intelligence",
+    "chunk_id": 37,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intimacy",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intimacy",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial intimacy",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial Inventor Project",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial Inventor Project",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial psychology",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial psychology",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial reproduction",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial reproduction",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial reproduction",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial reproduction",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial reproduction",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial wisdom",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial wisdom",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Artificial wisdom",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "ASR-complete",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Attributional calculus",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autognostics",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autognostics",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated machine learning",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated machine learning",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated Mathematician",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated Mathematician",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated medical scribe",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated medical scribe",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated medical scribe",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated medical scribe",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated medical scribe",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated medical scribe",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Automated negotiation",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomic networking",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomic networking",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomic networking",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomic networking",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomic networking",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomic networking",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomous agent",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Autonomous agent",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AZFinText",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "AZFinText",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 24,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 25,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 26,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 27,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 28,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 29,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 30,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 31,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 32,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 33,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 34,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 35,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 36,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 37,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 38,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Bayesian programming",
+    "chunk_id": 39,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Behavior informatics",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Behavior informatics",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Belief\u2013desire\u2013intention model",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Brain technology",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Brain technology",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Business process automation",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Business process automation",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Case-based reasoning",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Case-based reasoning",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Case-based reasoning",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Case-based reasoning",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Case-based reasoning",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Case-based reasoning",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Character computing",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Character computing",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Character computing",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Class activation mapping",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive computing",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive computing",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive computing",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive Digital Network",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive Digital Network",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive Digital Network",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive Digital Network",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive philology",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Cognitive philology",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Coherent extrapolated volition",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Coherent extrapolated volition",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Commonsense knowledge (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Commonsense knowledge (artificial intelligence)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Commonsense knowledge (artificial intelligence)",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Commonsense knowledge (artificial intelligence)",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Competition in artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Competition in artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Competition in artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational heuristic intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational heuristic intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational humor",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational humor",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational humor",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computational intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computer audition",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computer audition",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computer audition",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Computer audition",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Concurrent MetateM",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Concurrent MetateM",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Connectionist expert system",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "DABUS",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "DABUS",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "DABUS",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "DABUS",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Data annotation",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Data annotation",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Data Science and Predictive Analytics",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Data Science and Predictive Analytics",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deadbot",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deadbot",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Anti-Aliasing",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Anti-Aliasing",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Anti-Aliasing",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Deep Learning Super Sampling",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Description logic",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Diella (AI system)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Diella (AI system)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 24,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 25,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 26,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 27,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 28,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 29,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 30,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 31,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 32,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 33,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 34,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 35,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 36,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 37,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Dynamic epistemic logic",
+    "chunk_id": 38,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Elements of AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Elements of AI",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied agent",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied agent",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Embodied cognitive science",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Empowerment (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Empowerment (artificial intelligence)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Empowerment (artificial intelligence)",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Enterprise cognitive system",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Enterprise cognitive system",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Environmental impact of artificial intelligence",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Epistemic modal logic",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 24,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 25,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 26,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Ethics of artificial intelligence",
+    "chunk_id": 27,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Evolutionary developmental robotics",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Explainable artificial intelligence",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Extremal optimization",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Extremal optimization",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Feedback neural network",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Feedback neural network",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Galaxy AI",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 24,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 25,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Game theory",
+    "chunk_id": 26,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gender digital divide",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Genesis Mission",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Gibberlink",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "GOLOG",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "GOLOG",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Google AI Mode",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Google Clips",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Google Research",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Grammar systems theory",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Grammar systems theory",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Graphics processing unit",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "G\u00f6del machine",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "G\u00f6del machine",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "G\u00f6del machine",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "G\u00f6del machine",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "G\u00f6del machine",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hardware for artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hardware for artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hello World_ How to be Human in the Age of the Machine",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hierarchical control system",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hierarchical control system",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hierarchical control system",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Histogram of oriented displacements",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-AI interaction",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-centered AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-centered AI",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Human-centered AI",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Hybrid intelligent system",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Incremental heuristic search",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "INDIAai",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Information space analysis",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent agent",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent control",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent database",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent decision support system",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent decision support system",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intelligent word recognition",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intrinsic motivation (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intrinsic motivation (artificial intelligence)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Intrinsic motivation (artificial intelligence)",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Is This What We Want_",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Is This What We Want_",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "K-line (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "KAoS",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge compilation",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge cutoff",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge cutoff",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge level",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based configuration",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based configuration",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based recommender system",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based recommender system",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based systems",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based systems",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Knowledge-based systems",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "LaBSE",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "LaBSE",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Language_action perspective",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Language_action perspective",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Last Mile (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Learnable function",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Liar's dividend",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lifelong Planning A_",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lifelong Planning A_",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lifelong Planning A_",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lifelong Planning A_",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lifelong Planning A_",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "List of artificial intelligence journals",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "List of artificial intelligence journals",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "List of programming languages for artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "List of programming languages for artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "List of programming languages for artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lists of open-source artificial intelligence software",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lists of open-source artificial intelligence software",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lists of open-source artificial intelligence software",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Lists of open-source artificial intelligence software",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Machine perception",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Machine perception",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Machine perception",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MAUVE (metric)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MAUVE (metric)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MAUVE (metric)",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Maysoun Ibrahim",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Maysoun Ibrahim",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Maysoun Ibrahim",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Maysoun Ibrahim",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Maysoun Ibrahim",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Means\u2013ends analysis",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Means\u2013ends analysis",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Mechanistic interpretability",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MediSafe controversy",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MediSafe controversy",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MediSafe controversy",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MediSafe controversy",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Military applications of artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Military applications of artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Military applications of artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Mindpixel",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Mindpixel",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MindsDB",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "MindsDB",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Mode collapse",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Mode collapse",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Mode collapse",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Moral outsourcing",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Moral outsourcing",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Moral outsourcing",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "NASA AI Assisted-Air Quality Monitoring Project",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "NASA AI Assisted-Air Quality Monitoring Project",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural computation",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural computation",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neural scaling law",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neuro-symbolic AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neuro-symbolic AI",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neuro-symbolic AI",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neuro-symbolic AI",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neurorobotics",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neurorobotics",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neurorobotics",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Neurorobotics",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Non-human",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Non-human",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Nouvelle AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Nouvelle AI",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Nouvelle AI",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Operation Serenata de Amor",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Operation Serenata de Amor",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Operation Serenata de Amor",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Operational artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Organoid intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Organoid intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Pattern theory",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Pedagogical agent",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Pedagogical agent",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Pedagogical agent",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Pedagogical agent",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Percept (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Personality computing",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Personality computing",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Personoid",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Perusall",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "POP-11",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "POP-11",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Principle of rationality",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Principle of rationality",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Problem solving",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Progress in artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Progress in artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Progress in artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Progress in artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Progress in artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Progress in artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Psychology of reasoning",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Qloo",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Qloo",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Qloo",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Quantum artificial life",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Reasoning model",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Recursive self-improvement",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Recursive self-improvement",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Recursive self-improvement",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Resisting AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Resisting AI",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Resisting AI",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Resisting AI",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Schema-agnostic databases",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Schema-agnostic databases",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Schema-agnostic databases",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Self-management (computer science)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Singularity studies",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Singularity studies",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Situated approach (artificial intelligence)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Situated approach (artificial intelligence)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Situated approach (artificial intelligence)",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Situated approach (artificial intelligence)",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Situated",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Smart object",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Smart object",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Smart object",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Smart object",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Software agent",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Space-based data center",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Space-based data center",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Sparkles emoji",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Sparkles emoji",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Spreading activation",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Spreading activation",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Spreading activation",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "STIT logic",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Superintelligence ban",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Supermind AI",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "SUPS",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "SUPS",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "SUPS",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbol level",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 10,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 11,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 12,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 13,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 14,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 15,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 16,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 17,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 18,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 19,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 20,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 21,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 22,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 23,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Symbolic artificial intelligence",
+    "chunk_id": 24,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "TensorFlow Hub",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "The Fable of Oscar",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "The Fable of Oscar",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Timeline of artificial intelligence risks in global finance",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Timeline of artificial intelligence risks in global finance",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Timeline of artificial intelligence risks in global finance",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Timeline of artificial intelligence risks in global finance",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Timeline of artificial intelligence risks in global finance",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Toy problem",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Trupeer",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "UAE Strategy for Artificial Intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "United States Tech Force",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Universal psychometrics",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Video Super Resolution",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Virtual intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Virtual intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wadhwani Institute for Artificial Intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Way of the Future",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Weak artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Weak artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Web intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware (brain)",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware (brain)",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 7,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 8,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Wetware computer",
+    "chunk_id": 9,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Winner-take-all in action selection",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Winner-take-all in action selection",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Winner-take-all in action selection",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Workplace impact of artificial intelligence",
+    "chunk_id": 6,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Zeuthen strategy",
+    "chunk_id": 0,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Zeuthen strategy",
+    "chunk_id": 1,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Zeuthen strategy",
+    "chunk_id": 2,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Zeuthen strategy",
+    "chunk_id": 3,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Zeuthen strategy",
+    "chunk_id": 4,
+    "source": "wikipedia"
+  },
+  {
+    "doc_id": "Zeuthen strategy",
+    "chunk_id": 5,
+    "source": "wikipedia"
+  }
+]

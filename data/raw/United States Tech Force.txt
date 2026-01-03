@@ -1,0 +1,18 @@
+The U.S. Tech Force (also styled as US Tech Force, Tech Force, or Government Tech Force) is a federal hiring initiative launched by the second Donald Trump administration in December 2025. The program, administered by the Office of Personnel Management (OPM), aims to recruit approximately 1,000 early-career technology professionals into government roles to modernize federal IT systems, advance artificial intelligence (AI) capabilities, and address technological gaps in government operations. It involves direct partnerships with major private-sector technology companies to source talent.
+The initiative follows significant federal workforce reductions earlier in 2025 and is described by supporters as an "elite" effort to bring private-sector expertise into government service.
+
+Background
+In 2025, the Trump administration implemented broad government efficiency measures that resulted in the dismissal of thousands of federal employees. To address resulting capability gaps in technology and AI, the administration shifted focus toward rapid recruitment of specialized private-sector talent. The Tech Force was positioned as a direct response to these changes, emphasizing temporary or term-limited positions for early-career professionals.
+
+Announcement and details
+The program was formally launched by OPM in mid-December 2025, with announcements emphasizing recruitment of up to 1,000 technologists. Positions are targeted at early-career individuals, with competitive salaries and opportunities to work on high-impact government technology projects. Major technology companies—including Amazon, Apple, Microsoft, Nvidia, Meta, Google, and OpenAI—agreed to assist in identifying and referring candidates.
+
+Related cybersecurity developments
+Concurrent with the Tech Force announcement, reports indicated that the Trump administration was planning to enlist private cybersecurity firms for offensive cyber operations, marking a potential shift from previous restrictive policies. The administration was also described as revisiting foundational cybersecurity doctrines while implementing a broader new strategy.
+
+See also
+Mission Genesis
+United States Digital Service
+
+
+== References ==

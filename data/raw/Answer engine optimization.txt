@@ -1,0 +1,7 @@
+Answer engine optimization (AEO) is a set of strategies and practices aimed at improving the visibility and retrieval of digital content by large language models, conversational agents, and AI-driven search engines.
+While AEO concerns the optimisation of content for improved retrieval by AI systems, Artificial intelligence optimization (AIO) concerns the optimisation of the AI systems themselves. AEO addresses how human-generated information should be organised so that AI systems can interpret, verify, and present it effectively.
+Unlike traditional Search Engine Optimization (SEO), which focuses on ranking within link-based search results, AEO prioritises the production of structured and semantically rich information that can be directly extracted and reformulated as an answer.
+In recent years, as conversational-search tools and AI-driven answer interfaces (such as chatbots, virtual assistants, and AI Overviews) have grown in usage, AEO has emerged as a distinct discipline from traditional search engine optimisation. Tools such as Writesonic GEO toolkit, Semrush's AI Visibility Toolkit and Enterprise AIO reflect the growing emphasis on monitoring how websites and entities are cited, referenced, or incorporated into responses produced by Large language model (LLM) answer engines. 
+
+
+== References ==

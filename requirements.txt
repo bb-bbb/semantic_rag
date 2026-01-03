@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+tqdm
+
+# NLP / Embedding
+sentence-transformers
+transformers
+torch
+
+# Vector Search
+faiss-cpu
+
+# Reranking
+scikit-learn
+
+# LLM / RAG
+openai
+langchain
+
+# API
+fastapi
+uvicorn
+
+# Evaluation
+rank-bm25
+
+# Utils
+python-dotenv
